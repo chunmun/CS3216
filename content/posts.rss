@@ -1,78 +1,38 @@
 <?xml version="1.0" ?>
 <rss type="dict">
 	<channel type="list">
-		<title>Luna Blogging Engine</title>
-		<description>This is a demonstration of Luna Blogging Engine</description>
-		<link>http://yangshun.github.io/luna/#/</link>
+		<title>CS#@!^ Blog</title>
+		<description></description>
+		<link>http://chunmun.github.io/CS3216/#/</link>
 		<item type="dict">
-			<title type="str">Post 1</title>
-			<pubDate type="str">2013-08-02</pubDate>
-			<guid type="str">post-1</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-1</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
+			<pubDate type="str">2013-08-20</pubDate>
+			<title type="str">CS3216 Dafuq?!</title>
+			<guid type="str">cs3216-dafuq?!</guid>
+			<description type="str">Hi everyone, I'm Chunmun. Being relatively a fresh face in web application development, the decision to take up CS3216 has not been a simple one. Those who actually knowingly invite pain and sleepless nights must have been living too good a life.
+
+People
+---
+One point that did convince me a lot, practically, is the other choices that were available, aka other Software Engineering modules were simply more horrifying. It is the people that we are surrounded with, that really sets this module apart from the rest. Not about the exclusiveness or perks but about the like-minded drive, that provided the most draw for me. It is an amazing opportunity to find a pack of masochists all in one place. It is hard not to get excited and put all your chips on this module - I am aware this will probably be a show-hand in time and energies this semester. And the best part is most of them are not going to fold and follow the bet.
+
+Do whatever you want (within moral constraints)
+---
+Come on, how many modules come with the vaguest set of rules and still manage to be not annoying. There so much leg-room here, I at a totally lost of what to do. It also means I'll probably only learn as much as I want. Got no time to learn NodeJS, perfect, now it's a module-requirement and you're going to be rewarded for it. Want to know how to talk to a client, there's a live one standing there now. Like every good game, the rules are simple but difficult to master. It will be totally up to one's efforts. There do not exist much opportunities where you can get 10X the rewards if you put in 10X the effort. Now you mix this up with the zaniest people and it's the makings of one scary movie where I cannot predict the ending to.
+
+In conclusion, I'm tired of being mediocre. It's time to rock the boat and seize the day.</description>
+			<link type="str">http://chunmun.github.io/CS3216/#/cs3216-dafuq?!</link>
 		</item>
 		<item type="dict">
-			<title type="str">Post 10</title>
-			<pubDate type="str">2013-08-02</pubDate>
-			<guid type="str">post-10</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-10</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 2</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-2</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-2</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 3</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-3</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-3</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 4</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-4</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-4</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 5</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-5</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-5</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 6</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-6</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-6</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 7</title>
-			<pubDate type="str">2013-08-02</pubDate>
-			<guid type="str">post-7</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-7</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 8</title>
-			<pubDate type="str">2013-08-11</pubDate>
-			<guid type="str">post-8</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-8</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
-		</item>
-		<item type="dict">
-			<title type="str">Post 9</title>
-			<pubDate type="str">2013-08-02</pubDate>
-			<guid type="str">post-9</guid>
-			<link type="str">http://yangshun.github.io/luna/#/post-9</link>
-			<description type="str">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</description>
+			<pubDate type="str">2013-08-20</pubDate>
+			<title type="str">Building everything and nothing</title>
+			<guid type="str">building-everything-and-nothing</guid>
+			<description type="str">Now that forces me to think long and hard. Recently I made a joke with my friends about IVLE showing a lot of nothing. How it is possible someone spent so much time making something that does almost nothing. That is exactly what I'm afraid of.
+
+I believe whatever that I do end up building, makes a difference to someone's life out there. Whether it causes a ton of heartache (and subsequently, births another self-taught hacker) or joy - it should impact them. Maybe it doesn't have to be a very big group of people, but there should be someone that cares about it. It is so frighteningly easy to create something of non-value and feel like doing homework at the same time. Liken to a silent fart, nobody likes it and I'm too embarrassed to admit that I did it.
+
+Guiding principles like building around a problem helps to absolve some of these problems. So we just need to find problems right :) There's so much problems in this world, and many people are invested in their solutions. Turns out it's not that simple. Already my teammates tells me a problem I have no idea how to solve, on the first day we met.
+
+Found a problem, now comes the hard part, we going to try out hand at solving it and there's no textbook on this to boot.</description>
+			<link type="str">http://chunmun.github.io/CS3216/#/building-everything-and-nothing</link>
 		</item>
 	</channel>
 </rss>
