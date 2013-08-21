@@ -9,7 +9,6 @@ SITE_LINK = "http://chunmun.github.io/CS3216/#/"
 # Not in use yet
 SITE_TITLE = 'CS#@!^ Blog'
 SITE_DESCRIPTION = ''
-
 POSTS_DIR_PATH = "./posts/"
 POSTS_JSON_FILE_PATH = "./content/posts.json"
 POSTS_RSS_FILE_PATH = "./content/posts.rss"
@@ -81,7 +80,7 @@ def build_posts():
 	            'modified': int(os.path.getmtime(current_file_path)),
 	            'content': file_content.strip(),
 	            'filename': file_path,
-	            'post_id': post_title.replace(' ', '-').lower().strip() # TODO: Make sure there are no duplicate ids
+	            'post_id': post_title.replace(' ', '-').replace('?', '').replace('!', '').lower().strip() # TODO: Make sure there are no duplicate ids
 	            }
 
 	    data_output.append(post)

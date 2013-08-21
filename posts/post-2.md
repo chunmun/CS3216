@@ -7,4 +7,6 @@ I believe whatever that I do end up building, makes a difference to someone's li
 
 Guiding principles like building around a problem helps to absolve some of these problems. So we just need to find problems right :) There's so much problems in this world, and many people are invested in their solutions. Turns out it's not that simple. Already my teammates tells me a problem I have no idea how to solve, on the first day we met.
 
-Found a problem, now comes the hard part, we going to try out hand at solving it and there's no textbook on this to boot.
+Found a problem, now comes the hard part, we going to try out hand at solving it and there's no textbook on this to boot. The main problem I see with this so that programmers are not humans. Not normal humans in the sense that their skills at navigating the web landscape is so good, there are lots of basic assumptions of ability. I've worked on the CVWO with Prof Ben over the summer and have been deeply reminded of that fact everytime we visit our users. How in the world are we going to solve a problem for a group of people which don't know how they are going to use?
+
+No answers are forthcoming, and I think I'll have make this up as we go along

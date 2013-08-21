@@ -1,4 +1,4 @@
-CS3216 Dafuq?!
+CS3216 Dafuq
 ==
 
 Hi everyone, I'm Chunmun. Being relatively a fresh face in web application development, the decision to take up CS3216 has not been a simple one. Those who actually knowingly invite pain and sleepless nights must have been living too good a life.
