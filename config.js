@@ -10,5 +10,5 @@ CONFIG.BLOG_TITLE = 'CS#@!^ Blog';
 CONFIG.ENABLE_ANIMATIONS = true;
 
 CONFIG.USE_DISQUS = true;
-CONFIG.DISQUS_SHORT_NAME = 'chunmun';
-CONFIG.SITE_DOMAIN = 'chunmun.github.io';
+CONFIG.DISQUS_SHORT_NAME = 'soonchunmun';
+CONFIG.SITE_DOMAIN = 'chunmun.github.io/CS3216/#';
