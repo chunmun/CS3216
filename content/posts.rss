@@ -5,7 +5,32 @@
 		<description></description>
 		<link>http://chunmun.github.io/CS3216/#/</link>
 		<item type="dict">
-			<guid type="str">cs3216-dafuq</guid>
+			<description type="str">The presentations turned out to be unexpectedly interesting (Even though of the apps may not be). I guess even SoC guys can put up a presentation or two :) Through the many laughs and yawns, we can see that the presentation style of 20 slides x 20 secs actually manages to cover a ton of material. I can't believe we completed 12 apps in one night. If only we can do 12 lectures in the same way too.
+
+#### Naver Line
+
+Seems like chatting apps are a dime a dozen these days - Whatsapp, WeChat, Momo and now Line. Many more chatting apps that I don't even know about. Most of them actually have a similar set of expected features like group messaging. However each comes with a distinctive taste and Line tastes like sushi.
+
+The app, hailing from the land of the rising sun, comes with cutesy UI and features messaging and voice recording in its base app. Much of Line's uniqueness stem from it integration with a wide array of games. When I first discovered Line, I thought it was a game app more than a messaging app.
+
+In fact, it's download size like 16+Mb - Gigantasaurous for a messaging app, double the size of Whatsapp. Maybe it's because Japan has an exceptional wireless internet infrastructure, the download size wouldn't have been such a big problem.
+
+
+#### Many Faces - Be something to everybody
+It tries to create many different experiences for the people who are already registered in the main app, similar in nature to Habbo Hotel and more. Line Pop, its most popular game, is actually just like Bejeweled. Much of its monetisation strategies comes from the in-app purchases that available in these games. There is hardly any ads in any of their products except the ones that promote from Naver themselves.
+
+The cute images also trigger shudders down my spine and its not going to be acceptable to everyone.
+&lt;img src=&quot;http://static.campaign.naver.com/0/campaign/2012/04/line_sticker/img/pc/en/img_cony2.png&quot;&gt;
+
+However, their diverse universe of connections basically means that you'd never run out of things to do, or explore. Just download another one of their games/plugin to enjoy even more crap.
+
+I believe that the strategy of developing more and more games within the company itself might not be a scalable plan. A more viable one would be to open their APIs for use by developers. There would be a danger of lousy apps (cue blackberry disaster music), but it's the next step if the app wants to innovate faster than it can with its own team.</description>
+			<guid type="str">drop-me-a-line-app</guid>
+			<link type="str">http://chunmun.github.io/CS3216/#/drop-me-a-line-app</link>
+			<title type="str">Drop me a line app</title>
+			<pubDate type="str">2013-09-03</pubDate>
+		</item>
+		<item type="dict">
 			<description type="str">Hi everyone, I'm Chunmun. Being relatively a fresh face in web application development, the decision to take up CS3216 has not been a simple one. Those who actually knowingly invite pain and sleepless nights must have been living too good a life.
 
 #### People
@@ -17,24 +42,25 @@ One point that did convince me a lot, practically, is the other choices that wer
 Come on, how many modules come with the vaguest set of rules and still manage to be not annoying. There so much leg-room here, I at a totally lost of what to do. It also means I'll probably only learn as much as I want. Got no time to learn NodeJS, perfect, now it's a module-requirement and you're going to be rewarded for it. Want to know how to talk to a client, there's a live one standing there now. Like every good game, the rules are simple but difficult to master. It will be totally up to one's efforts. There do not exist much opportunities where you can get 10X the rewards if you put in 10X the effort. Now you mix this up with the zaniest people and it's the makings of one scary movie where I cannot predict the ending to.
 
 In conclusion, I'm tired of being mediocre. It's time to rock the boat and seize the day.</description>
-			<title type="str">CS3216 Dafuq</title>
-			<pubDate type="str">2013-08-20</pubDate>
+			<guid type="str">cs3216-dafuq</guid>
 			<link type="str">http://chunmun.github.io/CS3216/#/cs3216-dafuq</link>
+			<title type="str">CS3216 Dafuq?!</title>
+			<pubDate type="str">2013-08-21</pubDate>
 		</item>
 		<item type="dict">
-			<guid type="str">building-everything-and-nothing</guid>
 			<description type="str">Now that forces me to think long and hard. Recently I made a joke with my friends about IVLE showing a lot of nothing. How it is possible someone spent so much time making something that does almost nothing. That is exactly what I'm afraid of.
 
 I believe whatever that I do end up building, makes a difference to someone's life out there. Whether it causes a ton of heartache (and subsequently, births another self-taught hacker) or joy - it should impact them. Maybe it doesn't have to be a very big group of people, but there should be someone that cares about it. It is so frighteningly easy to create something of non-value and feel like doing homework at the same time. Liken to a silent fart, nobody likes it and I'm too embarrassed to admit that I did it.
 
 Guiding principles like building around a problem helps to absolve some of these problems. So we just need to find problems right :) There's so much problems in this world, and many people are invested in their solutions. Turns out it's not that simple. Already my teammates tells me a problem I have no idea how to solve, on the first day we met.
 
-Found a problem, now comes the hard part, we going to try out hand at solving it and there's no textbook on this to boot. The main problem I see with this so that programmers are not humans. Not normal humans in the sense that their skills at navigating the web landscape is so good, there are lots of basic assumptions of ability. I've worked on the CVWO with Prof Ben over the summer and have been deeply reminded of that fact everytime we visit our users. How in the world are we going to solve a problem for a group of people which don't know how they are going to use?
+Found a problem, now comes the hard part, we going to try our hand at solving it and there's no textbook on this to boot. The main problem I see with this is that most programmers are not humans. Not normal humans in the sense their skills at navigating the web landscape is so good, there are lots of basic assumptions of ability. I've worked on the CVWO with Prof Ben over the summer and have been deeply reminded of that fact everytime we visit our users. How in the world are we going to solve a problem for a group of people which don't know how they are going to use?
 
 No answers are forthcoming, and I think I'll have make this up as we go along</description>
+			<guid type="str">building-everything-and-nothing</guid>
+			<link type="str">http://chunmun.github.io/CS3216/#/building-everything-and-nothing</link>
 			<title type="str">Building everything and nothing</title>
 			<pubDate type="str">2013-08-21</pubDate>
-			<link type="str">http://chunmun.github.io/CS3216/#/building-everything-and-nothing</link>
 		</item>
 	</channel>
 </rss>
