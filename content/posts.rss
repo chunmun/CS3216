@@ -5,6 +5,68 @@
 		<description></description>
 		<link>http://chunmun.github.io/CS3216/#/</link>
 		<item type="dict">
+			<pubDate type="str">2013-10-05</pubDate>
+			<description type="str">No man is an island entire of itself
+Every man is a piece of the continent, a part of the main
+If a clod be washed away by the sea
+Europe is the less, as well as if a promontory were
+As well as any manner of thy friends or of thine own were
+Any man's death diminishes me, 
+because I am involved in mankind. 
+And therefore never send to know for whom the bell tolls
+it tolls for thee. 
+
+~ John Donne
+
+Ok I only googled the first sentence, but the interpretation is surprisingly apt.
+
+### How much control and authority would you have given to this fourth voice in our choice of platform (HTML5/native iOS)?
+
+I would considered carefully whether this fourth voice has enough experience under his belt to make good of his opinions. Frankly, the 2 different platforms are both an equally untamed land to me. It's going to be a learning trip no matter the outcome. If it is an assessment which is outside the scope of our own knowledge, it'll be futile to try so. Ever tried assessing what sort of illness you might be having from Google?
+
+Why listen to only one voice? There's an internet of people just waiting to shove advice down your throat. Check out if anyone has tried doing the same. Have they succeeded? If not, why not. If so, how to do better? Very much in the same spirit of the pitching session, if it is a smart enough idea, someone would have tried it before. I would try aggregating a few sources, do some cross-referencing, check my sanity with some non-computing friends. There is absolutely no need to confine yourself to the control and authority of 1 fourth voice.
+
+To be fair, not everyone is going to give good advice, neither may the majority. But there is going to be a good chance, if we ask the right questions, of finding out how not to fail. I believe most of human advice are learnt from failures, seriously how many people have enough serial successes to lay-down guidelines for them. More likely than not, we know what went wrong the last time, and try not to do it again. This brings a full circle back to the credibility of the fourth voice - What are his reasons for his choices, given his experience with the failures he grappled with.
+
+Inexperience is no excuse for gullibility.
+
+### With the deadline just 2 weeks away, how would you, as project manager, resolved this problem if it were to occur within the team?
+
+There has always been a running joke among programmers giving time estimates. In case you haven't noticed, here's a nice conversion table for programmer speech:
+
+http://java.dzone.com/programmers-are-bad-estimating
+
+Even before that, how much of the 2 weeks time are we talking about? 2 weeks before the finals? Then you have to re-adjust the REAL available time to 1 week. How many of the other students have deadline alarm bells going off in the same time? Take moar time out. It's the project manager's job to figure these parts out. Realistically, given those constraints, I would scream, cut out all the bells and whistles! Leave just one impressive function in, kill the rest of the stuff that doesn't support that function. They won't be missed if they can't be built.
+
+
+### What are some of the issues that we presented that could have happened to any team? List down 3, and talk about how you would have resolved these issues.
+
+#### 1 Coder horror
+
+I can probably see this happening more often in Singapore than maybe the US. Look at the ratios NUS is taking in and churning out. We are pushing out more business graduates than computing ones. There's is going to be more managers than actual programmers. Of course this is gross generalization and there is probably no need for so many programmers given that at lot of the local companies still operate in the archaic age and organize most things around spreadsheets and word documents.
+
+However, to build a serious app. A usable one that comes with a whole host of issues that need to be tackled on a daily basis - maintainence, scalability, stability, responsiveness, relevance. I recently had a client ask me a really interesting question.
+
+Why does code need maintenance? Do they spoil?
+
+I don't know, so much magic happens in the background to keep their little bubbly world running. Software is the beating heart powering a large part of the modern world - You don't notice your heart working nor take much care until it starts to break down.
+
+1 good programmer = 10 normal ones, 1 normal programmer is infinity better than bad ones. Btw Google has thousands so you can get your search result back at you faster than you can blink. It's not normal behaviour! 
+
+#### Jibaboom - The music of TNT in the backdrop of arguments
+
+&quot;I knew it will be hard, but I didn't expect it to be this difficult, this long and this painful&quot; - Joke from a friend doing team projects. Why do we need to argue so long, there should be a cut-off time to make decision (lest we have the government shutdown). Arguments should be also be weighted against the benefits of not having it rather than just balanced on the outcome of their settlement. Sometimes a coin is more fair than democracy.
+
+#### Let's do incredible stuff!
+The first person to exclaim this probably is a lunatic or masochist. Everyone likes to play a good game, not everyone likes to make one. A great advice from my formerphysics teacher, if you want to do superhuman things, you need to put in superhuman effort. I call it the law of conservation of awesomeness. 
+
+Unless you find yourself surrounded by like-minded freaks of nature, do not open this door. The decision to do something hard is much more difficult than the actual implementation - duh? The only thing worst than suffering, is probably suffering alone.</description>
+			<title type="str">Team Dynamics</title>
+			<link type="str">http://chunmun.github.io/CS3216/#/team-dynamics</link>
+			<guid type="str">team-dynamics</guid>
+		</item>
+		<item type="dict">
+			<pubDate type="str">2013-09-03</pubDate>
 			<description type="str">The presentations turned out to be unexpectedly interesting (Even though of the apps may not be). I guess even SoC guys can put up a presentation or two :) Through the many laughs and yawns, we can see that the presentation style of 20 slides x 20 secs actually manages to cover a ton of material. I can't believe we completed 12 apps in one night. If only we can do 12 lectures in the same way too.
 
 #### Naver Line
@@ -25,12 +87,12 @@ The cute images also trigger shudders down my spine and its not going to be acce
 However, their diverse universe of connections basically means that you'd never run out of things to do, or explore. Just download another one of their games/plugin to enjoy even more crap.
 
 I believe that the strategy of developing more and more games within the company itself might not be a scalable plan. A more viable one would be to open their APIs for use by developers. There would be a danger of lousy apps (cue blackberry disaster music), but it's the next step if the app wants to innovate faster than it can with its own team.</description>
-			<guid type="str">drop-me-a-line-app</guid>
-			<link type="str">http://chunmun.github.io/CS3216/#/drop-me-a-line-app</link>
 			<title type="str">Drop me a line app</title>
-			<pubDate type="str">2013-09-03</pubDate>
+			<link type="str">http://chunmun.github.io/CS3216/#/drop-me-a-line-app</link>
+			<guid type="str">drop-me-a-line-app</guid>
 		</item>
 		<item type="dict">
+			<pubDate type="str">2013-08-21</pubDate>
 			<description type="str">Hi everyone, I'm Chunmun. Being relatively a fresh face in web application development, the decision to take up CS3216 has not been a simple one. Those who actually knowingly invite pain and sleepless nights must have been living too good a life.
 
 #### People
@@ -42,12 +104,12 @@ One point that did convince me a lot, practically, is the other choices that wer
 Come on, how many modules come with the vaguest set of rules and still manage to be not annoying. There so much leg-room here, I at a totally lost of what to do. It also means I'll probably only learn as much as I want. Got no time to learn NodeJS, perfect, now it's a module-requirement and you're going to be rewarded for it. Want to know how to talk to a client, there's a live one standing there now. Like every good game, the rules are simple but difficult to master. It will be totally up to one's efforts. There do not exist much opportunities where you can get 10X the rewards if you put in 10X the effort. Now you mix this up with the zaniest people and it's the makings of one scary movie where I cannot predict the ending to.
 
 In conclusion, I'm tired of being mediocre. It's time to rock the boat and seize the day.</description>
-			<guid type="str">cs3216-dafuq</guid>
-			<link type="str">http://chunmun.github.io/CS3216/#/cs3216-dafuq</link>
 			<title type="str">CS3216 Dafuq?!</title>
-			<pubDate type="str">2013-08-21</pubDate>
+			<link type="str">http://chunmun.github.io/CS3216/#/cs3216-dafuq</link>
+			<guid type="str">cs3216-dafuq</guid>
 		</item>
 		<item type="dict">
+			<pubDate type="str">2013-08-21</pubDate>
 			<description type="str">Now that forces me to think long and hard. Recently I made a joke with my friends about IVLE showing a lot of nothing. How it is possible someone spent so much time making something that does almost nothing. That is exactly what I'm afraid of.
 
 I believe whatever that I do end up building, makes a difference to someone's life out there. Whether it causes a ton of heartache (and subsequently, births another self-taught hacker) or joy - it should impact them. Maybe it doesn't have to be a very big group of people, but there should be someone that cares about it. It is so frighteningly easy to create something of non-value and feel like doing homework at the same time. Liken to a silent fart, nobody likes it and I'm too embarrassed to admit that I did it.
@@ -57,10 +119,9 @@ Guiding principles like building around a problem helps to absolve some of these
 Found a problem, now comes the hard part, we going to try our hand at solving it and there's no textbook on this to boot. The main problem I see with this is that most programmers are not humans. Not normal humans in the sense their skills at navigating the web landscape is so good, there are lots of basic assumptions of ability. I've worked on the CVWO with Prof Ben over the summer and have been deeply reminded of that fact everytime we visit our users. How in the world are we going to solve a problem for a group of people which don't know how they are going to use?
 
 No answers are forthcoming, and I think I'll have make this up as we go along</description>
-			<guid type="str">building-everything-and-nothing</guid>
-			<link type="str">http://chunmun.github.io/CS3216/#/building-everything-and-nothing</link>
 			<title type="str">Building everything and nothing</title>
-			<pubDate type="str">2013-08-21</pubDate>
+			<link type="str">http://chunmun.github.io/CS3216/#/building-everything-and-nothing</link>
+			<guid type="str">building-everything-and-nothing</guid>
 		</item>
 	</channel>
 </rss>
